@@ -140,15 +140,6 @@ para verificar quais arquivos foram modificados.
 ├── js/
 │   └── script.js
 │
-├── img/
-│   ├── grupo-01.svg
-│   ├── grupo-02.svg
-│   ├── grupo-03.svg
-│   ├── grupo-04.svg
-│   ├── grupo-05.svg
-│   ├── grupo-06.svg
-│   └── grupo-07.svg
-│
 ├── grupos/
 │   ├── grupo-01.html
 │   ├── grupo-02.html
